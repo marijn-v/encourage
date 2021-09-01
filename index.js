@@ -1,1 +1,1 @@
-console.log('It will get hard, but because of that you can only enjoy it more when you figure it out!')
+console.log('Good job getting to the third day! Remember to take a breather, do some stretches to refresh yourself.')
